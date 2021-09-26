@@ -1,0 +1,7 @@
+Javasolt háttérszín:
+
+    #E0E0E0 
+
+Javasolt betû:
+
+    #660000 Arial 
