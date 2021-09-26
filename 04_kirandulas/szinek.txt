@@ -1,0 +1,7 @@
+Javasolt háttérszín:
+
+    #DDFFDD 
+
+Javasolt betûszín:
+
+    #002200 
