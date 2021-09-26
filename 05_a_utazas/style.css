@@ -1,0 +1,48 @@
+body
+{
+width: 80%;
+background-image: url(vilagterkep.jpg);
+margin: 20px auto;
+font-family: sans-serif;
+font-size: 14pt;
+color: #00008B;
+padding: 10px;
+
+}
+h1{
+font-size: 60pt;
+text-align: center;
+}
+h3{
+    font-size: 36pt;
+    text-align: center;
+    }
+#kep_kozep
+{
+display: block;
+margin: 0 auto;
+}
+#kozep{
+    text-align:center;
+}
+table{
+    background-color: #C4F4FD;
+}
+#bal{
+    text-align: left;
+}
+#jobb{
+    text-align: right;
+}
+table{
+    width: 100%;
+}
+
+#kiskep
+{
+    display: block;
+    float: left;
+    width: 300px;
+    margin: 0 20px 20px 0;
+
+}
